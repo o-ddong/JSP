@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style type = "text/css">
+	.style0{border:solid;}
+	.style1{font-family:궁서체 ; color:red; font-size:25px; width:100px}
+	.style2{font-family:italic; color:blur; font-size:18px; width:50px}
+	.style3{background-color:yellow;}
+</style>
+</head>
+<body>
+
+<table>
+	<caption>2021년 1학기 시간표</caption>
+	<tr><td></td><td>월</td><td>화</td><td>수</td><td>목</td><td>금</td></tr>
+</table>
+
+</body>
+</html>

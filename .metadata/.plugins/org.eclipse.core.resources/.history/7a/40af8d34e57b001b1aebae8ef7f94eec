@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style type = "text/css">
+	.style0{border:solid;}
+	.style1{font-family:궁서체 ; color:red; font-size:25px; width:100px}
+	.style2{font-family:italic; color:blur; font-size:18px; width:50px}
+	.style3{background-color:yellow;}
+</style>
+</head>
+<body>
+
+<table border="1">
+	<caption>2021년 1학기 시간표</caption>
+	<tr>
+		<td></td>
+		<td>월</td>
+		<td>화</td>
+		<td>수</td>
+		<td>목</td>
+		<td>금</td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td rowspan=3>A</td>
+		<td></td>
+		<td rowspan=2>E</td>
+		<td rowspan=3>G</td>
+		<td rowspan=2>AA</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td rowspan=3>C</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>점심</td>
+		<td colspan=3>점심시간</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td rowspan=2>B</td>
+		<td></td>
+		<td rowspan=2>F</td>
+		<td rowspan=3>H</td>
+		<td rowspan=2>BB</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td rowspan=3>D</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	
+</table>
+
+</body>
+</html>

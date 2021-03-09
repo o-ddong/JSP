@@ -1,0 +1,66 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>회원 가입 입력 양식</title>
+</head>
+<body>
+회원 가입 입력 양식 <br>
+<form action="In_form_ok.jsp" method="post"></form>
+<table border="1">
+	<tr>
+		<td width=80 >*아이디</td>
+		<td width=300><input type="text" name="id"></td>
+	</tr>
+	<tr>
+		<td>*비밀번호</td>
+		<td><input type="text" name="pw"></td>
+	</tr>
+	<tr>
+		<td>*이름</td>
+		<td><input type="text" name="name"></td>
+	</tr>
+	<tr>
+		<td>*이메일</td>
+		<td><input type="text" name="email"></td>
+	</tr>
+	<tr>
+		<td>전화번호</td>
+		<td><input type="text" name="phone_num"></td>
+	</tr>
+	<tr>
+		<td>*핸드폰번호</td>
+		<td><input type="text" name="email"></td>
+	</tr>
+	<tr>
+		<td>주민번호</td>
+		<td><input type="text" name="jumin"></td>
+	</tr>
+	<tr>
+		<td>우편번호</td>
+		<td><input type="text" name="post"></td>
+	</tr>
+	
+	<tr>
+		<td>주소</td>
+		<td><input type="text" name="address"></td>
+	</tr>
+	
+	<tr>
+		<td>나머지주소</td>
+		<td><input type="text" name="rem_add"></td>
+	</tr>
+	<tr>
+		<td>생년월일</td>
+		<td><input type="text" name="birthday"></td>
+	</tr>
+	
+	
+	
+	
+	
+</table>
+</body>
+</html>

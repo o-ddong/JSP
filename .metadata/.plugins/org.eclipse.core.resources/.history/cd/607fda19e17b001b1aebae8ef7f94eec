@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style type = "text/css">
+	.style0{border:solid;}
+	.style1{font-family:궁서체 ; color:red; font-size:25px; width:100px}
+	.style2{font-family:italic; color:blur; font-size:18px; width:50px}
+	.style3{background-color:yellow;}
+</style>
+</head>
+<body>
+
+<table border = "1"; color:yellow;>
+<caption color:yellow;> 표 제목</caption>
+<tr class="style1"><td width=100px> HD1 </td> <td class="style2"> HD2 </td> </tr>
+<tr class="style3"><td width=1px> 1 </td> <td> 1-1 </td> </tr>
+<tr class = "style0"><td> 2 </td> <td> 1-2 </td> </tr>
+</table>
+
+</body>
+</html>

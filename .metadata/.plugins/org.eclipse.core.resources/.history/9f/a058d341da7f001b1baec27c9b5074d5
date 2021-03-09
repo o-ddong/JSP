@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>회원 가입 입력 양식</title>
+</head>
+<body>
+
+<form action="In_form_ok.jsp" method="post"></form>
+<table border="1">
+<th>회원 가입 입력 양식 <br></th>
+	<tr>
+		<td width=50>아이디</td>
+		<td width=400><input type="text" name="id"></td>
+	</tr>
+</table>
+</body>
+</html>

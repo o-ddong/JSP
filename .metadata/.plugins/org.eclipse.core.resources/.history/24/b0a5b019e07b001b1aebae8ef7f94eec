@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+
+<table>
+<table border = "1">
+<caption> 표 제목</caption>
+<tr width=150px><td width=100px> HD1 </td> <td width=50px> HD2 </td> </tr>
+<tr width=1px><td width=1px> 1 </td> <td> 1-1 </td> </tr>
+<tr><td> 2 </td> <td> 1-2 </td> </tr>
+</table>
+
+</body>
+</html>
